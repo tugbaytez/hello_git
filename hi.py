@@ -63,3 +63,7 @@ def mehmet_tan():
 
 def kubra():
     print("Merhabalar")
+
+def ttez():
+    print("tarih: 01-12-2020")
+
